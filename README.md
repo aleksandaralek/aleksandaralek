@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleksandaralek
 - 👀 I’m interested in Python/OpenAI/Machine Learning.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently researching Machine Learning.
 - 💞️ I’m looking to collaborate on AI projects.
 - 📫 How to reach me : aleksandardeveoper@gmail.com
 
